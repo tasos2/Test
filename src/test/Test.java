@@ -20,6 +20,7 @@ public class Test {
         //sxolio
         System.out.print("Hello");
         Animal a = new Animal(10,100);
+        Animal e = new Animal(1,1);
     }
     
 }
