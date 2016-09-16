@@ -18,6 +18,8 @@ public class Test {
         // TODO code application logic here
         System.out.println("Helkfe");
         //sxolio
+        System.out.print("Hello");
+        Animal a = new Animal(10,100);
     }
     
 }
